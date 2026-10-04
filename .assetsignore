@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+.assetsignore
+wrangler.jsonc
+netlify.toml
+CNAME
+_backup
+*.txt
