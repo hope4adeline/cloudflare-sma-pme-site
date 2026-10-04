@@ -6,4 +6,3 @@ wrangler.jsonc
 netlify.toml
 CNAME
 _backup
-*.txt
